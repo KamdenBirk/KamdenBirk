@@ -7,7 +7,5 @@ I am a high school senior, planning to pursue computer science in college. I am 
 
 Skills: JS / HTML / CSS / Bootstrap
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KamdenBirk)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KamdenBirk&show_icons=true)  
-
+<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=KamdenBirk&show_icons=true">
+<img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamdenBirk&layout=compact">
