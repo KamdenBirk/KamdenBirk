@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Kamden
+### Hi there 👋, my name is Kamden Birk
 #### Fledgling Programmer
 ![Fledgling Programmer](https://github.com/KamdenBirk/KamdenBirk/blob/main/Kamden%20Birk.png)
 
