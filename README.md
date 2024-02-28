@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Kamden
 #### Fledgling Programmer
-![Fledgling Programmer](./Kamden Birk.pdf)
+![Fledgling Programmer](https://github.com/KamdenBirk/KamdenBirk/blob/main/Kamden%20Birk.png)
 
 I am a high school senior, planning to pursue computer science in college. I am taking a coding and programming class at a CTC which covers front-end HTML, CSS, and JavaScript.
 
