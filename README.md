@@ -3,7 +3,7 @@
 ### Hi there 👋, my name is Kamden Birk
 #### Fledgling Programmer
 
-I am a high school senior, planning to pursue computer science in college. I am taking a coding and programming class at a CTC which covers front-end HTML, CSS, and JavaScript.
+I am a high school senior, planning to pursue computer science in college. I am taking a Coding & Programming course at a Career & Technical Education Center which covers front-end HTML, CSS, and JavaScript.
 
 Skills: JS / HTML / CSS / Bootstrap
 
